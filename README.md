@@ -122,10 +122,4 @@ Verify logout on browser close.
 
 Verify user cannot navigate back after logout.
 
-**4. Risk-Based Analysis**
 
-**Feature**             **Risk Level**             **Reason**
-Login	              High                   Security, user data protection
-Transfer	          Critical	             Financial loss potential
-Transaction History	Medium	               Data accuracy
-Session management	Medium	               Unauthorized access
