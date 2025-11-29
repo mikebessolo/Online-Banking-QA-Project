@@ -94,7 +94,7 @@ Verify balance displays correctly.
 
 Verify last 10 transactions display.
 
-Funds Transfer
+**Funds Transfer**
 
 Verify successful transfer with valid details.
 
