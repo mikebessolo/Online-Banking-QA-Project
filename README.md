@@ -33,7 +33,7 @@ R4.1: User can view complete history with date, type, and amount.
 
 R4.2: User can filter by date range.
 
-Security & Session Management
+**Security & Session Management**
 
 R5.1: Session expires after 10 minutes of inactivity.
 
